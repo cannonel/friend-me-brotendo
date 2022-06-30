@@ -1,0 +1,23 @@
+{
+  "name": "friend-me-brotendo",
+  "version": "1.0.0",
+  "description": "This API is designed to cater to a social media startup that has requested an API for their social network that uses a NoSQL database. Through using NoSql, the website can handle large amounts of unstructured data making it optimal for the full scope of a social networking site.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cannonel/friend-me-brotendo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cannonel/friend-me-brotendo/issues"
+  },
+  "homepage": "https://github.com/cannonel/friend-me-brotendo#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.4.1"
+  }
+}
