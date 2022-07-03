@@ -6,14 +6,17 @@ This API is designed to cater to a social media startup that has requested an AP
 
 
 ## Usage
+To utilize this application, the user must first run `npm i`, `npm i express`, and `npm i mongoose` to install the necessary packages. Then in the computers terminal, the user will run `npm run` to initiate the server. Upon doing so, the user should recieve a success message in the terminal indicating that the server is up and running on the local host. From there the user is able to utilize all Create, Post, Put and Delete routes and populate with their data.
 
 ## Technologies utilized
-
+-npm </br>
+-mongoose </br>
+-express.js </br>
 
 ## Video walkthrough of app 
-[Link to video] 
 
-<img src="">
+<img src="./walkthru-social.gif">
+
 
 ## Contributing
 Erika Cannon
